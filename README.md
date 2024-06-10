@@ -14,7 +14,7 @@ The task requires the following libraries:
 - `matplotlib`
 - `seaborn`
 
-### Steps Explanation
+### How code works!?
 
 #### 1. Load and Preprocess Images
 We define a function to load images from the dataset, resize them to 224x224 pixels (VGG16 input size), and preprocess them. Labels are inferred based on file paths containing 'cat' or 'dog'.
